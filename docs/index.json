@@ -1,5 +1,18 @@
 [
   {
+    "id": "2026-01-14_231913_5a8d1801",
+    "title": "indexとsearch_indexの分離",
+    "tags": [],
+    "path": "notes/2026-01-14_231913_5a8d1801/",
+    "updated": "2026-01-14",
+    "tbd": [
+      "indexの作成手順",
+      "search_indexの作成手順",
+      "search_indexの更新手順"
+    ],
+    "confidence": 0
+  },
+  {
     "id": "2026-01-14_224109_f66acfd1",
     "title": "indexとsearch_indexの分離",
     "tags": [],
