@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "id": "2026-01-15_052411_ab3eb7af",
+    "title": "indexとsearch_indexの分離",
+    "tags": [
+      "検索",
+      "index",
+      "パフォーマンス"
+    ],
+    "path": "notes/2026-01-15_052411_ab3eb7af/",
+    "updated": "2026-01-15",
+    "tbd": [],
+    "confidence": 5
+  }
+]
